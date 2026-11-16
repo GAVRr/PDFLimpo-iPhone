@@ -1,0 +1,11 @@
+{
+  "name": "PDFLimpo",
+  "short_name": "PDFLimpo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#172033",
+  "theme_color": "#172033",
+  "icons": [
+    { "src": "/app/static/PDFLimpo.png", "sizes": "any", "type": "image/png" }
+  ]
+}
